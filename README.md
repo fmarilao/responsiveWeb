@@ -2,4 +2,4 @@
 
 <H3>HTML + CSS LESS </H3>
 
-view online http://fmarilao.tech/responsiveWeb
+view online http://responsiveweb.fmarilao.tech
